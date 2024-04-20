@@ -2,7 +2,7 @@ Full-Stack Dev. Python, C#, PHP & JavaScript. Linux Enjoyer.
 
 
 ### Find me here:
-[[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-pichinte-17a616272/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-pichinte-17a616272/)
 
 
 ### My Stack:
