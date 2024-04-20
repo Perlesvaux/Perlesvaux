@@ -1,4 +1,4 @@
-Full-Stack Dev. Python, C#, PHP & JavaScript. Linux Enjoyer.
+# Full-Stack Dev. ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue), C#, PHP & JavaScript. Linux Enjoyer. Vim over VSCode
 
 
 ### Find me here:
