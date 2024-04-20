@@ -4,6 +4,8 @@
 - 📚 Literature (Perlesvaus/The High Book of the Grail, Le Morte d'Arthur, Cien Años de Soledad) 
 - 🍙 Anime/Manga (Berserk, Oyasumi Punpun, Jojo, Negima)
 - 🕹️ Videogames (Final Fantasy, Dragon Quest, Shin Megami Tensei, Metal Gear)
+- 🎸 Metal (Judas Priest, Black Sabbath, Rainbow, Iron Maiden, Stratovarius)
+
 
 ### Find me here:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-pichinte-17a616272/) 
